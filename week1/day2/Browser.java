@@ -2,7 +2,6 @@ package week1.day2;
 
 public class Browser 
 {
-	
 	public String launchBrowser(String browserName)
 	{
 		System.out.println("Browser launched successfully");
@@ -14,7 +13,6 @@ public class Browser
 		System.out.println("Application url loaded successfully");
 	}
 
-	
 	public static void main(String[] args) 
 	{
 			Browser se=new Browser();
@@ -23,9 +21,6 @@ public class Browser
 			System.out.println(launchBrowser);
 			
 			se.loadUrl();
-		
-			
-
 	}
 
 }
