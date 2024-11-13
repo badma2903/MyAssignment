@@ -2,7 +2,6 @@ package week1.day2;
 
 public class FindIntersection 
 {
-
 	public static void main(String[] args) 
 	{
 		int[] array_1 = {3,2,11,4,6,7};
