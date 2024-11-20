@@ -21,6 +21,10 @@ public class Palindrome
 			{
 				System.out.println("It is a palindrome number");
 			}
+		else
+			{
+				System.out.println("It is not a palindrome number");	
+			}
 			
 	}
 		
