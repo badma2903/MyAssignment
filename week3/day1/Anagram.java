@@ -6,7 +6,8 @@ public class Anagram
 {
 
 	public static void main(String[] args)
-	{
+	{       
+		//initializing the texts
 		String text1 = "stops"; 
 		String text2 = "potss";
 		
